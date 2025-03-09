@@ -1,7 +1,7 @@
 import openai
 
 # Hardcoded API Key (Replace with your actual key)
-API_KEY = "sk-0f4c0436dead421ea790111dfbcdb847"
+API_KEY = "YOUR API KEY"
 print(f"API Key: {API_KEY}")
 
 if not API_KEY:
